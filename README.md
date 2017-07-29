@@ -1,2 +1,2 @@
 # git-github
-this is My Practicing perpose
+This is My Practicing perpose.
